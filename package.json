@@ -1,6 +1,6 @@
 {
   "name": "alihassan_007-simple_calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple calculator using typescript nodejs and inquirer",
   "main": "index.js",
   "type": "module",
